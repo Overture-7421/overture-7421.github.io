@@ -1,9 +1,9 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.overFTCLib.fc",
+    "group": "com.overFTCLib.ftc",
     "module": "overFTCLib-java",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "overFTCLib-java-0.0.5.jar",
-          "url": "overFTCLib-java-0.0.5.jar",
+          "name": "overFTCLib-java-0.0.6.jar",
+          "url": "overFTCLib-java-0.0.6.jar",
           "size": 1784,
-          "sha512": "ecc7cf2be1b3e1f53d5db2959c6092f7de9603098d35d6efc1fdeff1ff72c2b1134cdea070367b906c3ac59e7f8911b756a362e6eeb7d658caff07ce9687b181",
-          "sha256": "ee8643ee9bd83227c12eaf6974b55ba096f72fd89b7e28172fab389d0d4e5578",
-          "sha1": "8ecc7553dcbcaf6b1a83c6973547754bd6dfd570",
-          "md5": "83478f516e1d818c10688e2dc9e06deb"
+          "sha512": "21de948ce3533ccdf498fb979e62ca107c34f359e3a813e8318ab085be3bb26b7a2152fe17111594408f328cc8f0dff3df30932722a287adfe6b6ba00e1820cb",
+          "sha256": "f3ede42c01652d683a53f6df8dd4e43625ac7dde36dfa087aa7fb8e4a5f059e4",
+          "sha1": "99a01a09cdfb338cb5a43572adce96392966c682",
+          "md5": "a5bd3bbb111d158d5ca0836001404e7d"
         }
       ]
     },
@@ -46,13 +46,13 @@
       },
       "files": [
         {
-          "name": "overFTCLib-java-0.0.5.jar",
-          "url": "overFTCLib-java-0.0.5.jar",
+          "name": "overFTCLib-java-0.0.6.jar",
+          "url": "overFTCLib-java-0.0.6.jar",
           "size": 1784,
-          "sha512": "ecc7cf2be1b3e1f53d5db2959c6092f7de9603098d35d6efc1fdeff1ff72c2b1134cdea070367b906c3ac59e7f8911b756a362e6eeb7d658caff07ce9687b181",
-          "sha256": "ee8643ee9bd83227c12eaf6974b55ba096f72fd89b7e28172fab389d0d4e5578",
-          "sha1": "8ecc7553dcbcaf6b1a83c6973547754bd6dfd570",
-          "md5": "83478f516e1d818c10688e2dc9e06deb"
+          "sha512": "21de948ce3533ccdf498fb979e62ca107c34f359e3a813e8318ab085be3bb26b7a2152fe17111594408f328cc8f0dff3df30932722a287adfe6b6ba00e1820cb",
+          "sha256": "f3ede42c01652d683a53f6df8dd4e43625ac7dde36dfa087aa7fb8e4a5f059e4",
+          "sha1": "99a01a09cdfb338cb5a43572adce96392966c682",
+          "md5": "a5bd3bbb111d158d5ca0836001404e7d"
         }
       ]
     }

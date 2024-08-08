@@ -7,7 +7,7 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.overFTCLib.fc</groupId>
+  <groupId>com.overFTCLib.ftc</groupId>
   <artifactId>overFTCLib-java</artifactId>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
 </project>
