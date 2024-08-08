@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="2024.1.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-linuxx86-64staticdebug.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-osxuniversalstaticdebug.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-windowsx86-64staticdebug.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-linuxathenastatic.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-linuxx86-64debug.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-windowsx86-64debug.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-windowsx86-64.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-osxuniversaldebug.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-linuxathenadebug.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-source.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-osxuniversal.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-windowsx86-64static.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-osxuniversalstatic.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-linuxx86-64static.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-linuxathena.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-linuxathenastaticdebug.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-headers.zip!/" />
+      <root url="jar://$PROJECT_DIR$/overturelib/repo/com/overture/lib/OvertureLib-cpp/2024.1.7/OvertureLib-cpp-2024.1.7-linuxx86-64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
