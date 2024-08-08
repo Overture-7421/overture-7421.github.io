@@ -9,5 +9,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.overFTCLib.ftc</groupId>
   <artifactId>overFTCLib-java</artifactId>
-  <version>0.0.6</version>
+  <version>0.0.7</version>
+  <dependencies>
+    <dependency>
+      <groupId>edu.wpi.first.wpimath</groupId>
+      <artifactId>wpimath-java</artifactId>
+      <version>2024.3.2</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
 </project>
