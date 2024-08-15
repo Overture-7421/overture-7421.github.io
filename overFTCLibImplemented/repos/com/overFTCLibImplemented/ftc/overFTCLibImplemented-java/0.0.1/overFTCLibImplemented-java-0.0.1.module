@@ -1,0 +1,78 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.overFTCLibImplemented.ftc",
+    "module": "overFTCLibImplemented-java",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.overFTCLib.ftc",
+          "module": "overFTCLib-java",
+          "version": {
+            "requires": "0.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "overFTCLibImplemented-java-0.0.1.jar",
+          "url": "overFTCLibImplemented-java-0.0.1.jar",
+          "size": 2757,
+          "sha512": "d3ceed4a02453c6d6837ad3426714d89934e07457030d41f65611b11da4e0aff9c3c2f7ef627df253942854fc8efba4f03d169e59d25a5e56bd386ee2d689573",
+          "sha256": "1fbc4c3c302544f1125f0d1b85b868c668298d2093aa365e927ea54576d352d4",
+          "sha1": "86bce6bcfb25a668a70263d98d109113cbb2a9ae",
+          "md5": "52ef016e4c11db9ff59e6708b699a08f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.overFTCLib.ftc",
+          "module": "overFTCLib-java",
+          "version": {
+            "requires": "0.1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "overFTCLibImplemented-java-0.0.1.jar",
+          "url": "overFTCLibImplemented-java-0.0.1.jar",
+          "size": 2757,
+          "sha512": "d3ceed4a02453c6d6837ad3426714d89934e07457030d41f65611b11da4e0aff9c3c2f7ef627df253942854fc8efba4f03d169e59d25a5e56bd386ee2d689573",
+          "sha256": "1fbc4c3c302544f1125f0d1b85b868c668298d2093aa365e927ea54576d352d4",
+          "sha1": "86bce6bcfb25a668a70263d98d109113cbb2a9ae",
+          "md5": "52ef016e4c11db9ff59e6708b699a08f"
+        }
+      ]
+    }
+  ]
+}
