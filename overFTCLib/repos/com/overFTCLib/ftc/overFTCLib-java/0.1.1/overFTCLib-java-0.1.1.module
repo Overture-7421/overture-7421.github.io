@@ -3,7 +3,7 @@
   "component": {
     "group": "com.overFTCLib.ftc",
     "module": "overFTCLib-java",
-    "version": "0.1",
+    "version": "0.1.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -55,8 +55,8 @@
       ],
       "files": [
         {
-          "name": "overFTCLib-java-0.1.jar",
-          "url": "overFTCLib-java-0.1.jar",
+          "name": "overFTCLib-java-0.1.1.jar",
+          "url": "overFTCLib-java-0.1.1.jar",
           "size": 13675,
           "sha512": "00909b225a93156fbf9a3427e10d24319eee62c94c4dd8f861050df857e84ea9b97759332b9d3e8d7265a9c8d5a5b2cfda4cc20bccc1f4dcffb7580d106cb162",
           "sha256": "3faf286764fbbefd8113a9513f388167fa41bdc135da80bf6b7d191394548d51",
@@ -106,8 +106,8 @@
       ],
       "files": [
         {
-          "name": "overFTCLib-java-0.1.jar",
-          "url": "overFTCLib-java-0.1.jar",
+          "name": "overFTCLib-java-0.1.1.jar",
+          "url": "overFTCLib-java-0.1.1.jar",
           "size": 13675,
           "sha512": "00909b225a93156fbf9a3427e10d24319eee62c94c4dd8f861050df857e84ea9b97759332b9d3e8d7265a9c8d5a5b2cfda4cc20bccc1f4dcffb7580d106cb162",
           "sha256": "3faf286764fbbefd8113a9513f388167fa41bdc135da80bf6b7d191394548d51",
