@@ -1,0 +1,120 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.overture.ftc",
+    "module": "overftclib-java",
+    "version": "0.1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "edu.wpi.first.wpimath",
+          "module": "wpimath-java",
+          "version": {
+            "requires": "2024.3.2"
+          }
+        },
+        {
+          "group": "edu.wpi.first.ntcore",
+          "module": "ntcore-java",
+          "version": {
+            "requires": "2024.3.2"
+          }
+        },
+        {
+          "group": "edu.wpi.first.wpiunits",
+          "module": "wpiunits-java",
+          "version": {
+            "requires": "2024.3.2"
+          }
+        },
+        {
+          "group": "edu.wpi.first.wpilibNewCommands",
+          "module": "wpilibNewCommands-java",
+          "version": {
+            "requires": "2024.3.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "overftclib-java-0.1.5.jar",
+          "url": "overftclib-java-0.1.5.jar",
+          "size": 2836,
+          "sha512": "a52108d31091df1e3df86646e40b9753bb9420e7529fff59e74307c558e2fa87df86c76fcebefa395eb658aa4a6d063e85baed75a19eb762fa9e064d3c35e61f",
+          "sha256": "42caebc29b281e6a43388fd6aa48771892f5fc0e8c67570450796acd26b83217",
+          "sha1": "2403ac47ebb9ec747b649e2edd013241b51d7567",
+          "md5": "d5419f9d8d0df06925b3cb74a7e7b063"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "edu.wpi.first.wpimath",
+          "module": "wpimath-java",
+          "version": {
+            "requires": "2024.3.2"
+          }
+        },
+        {
+          "group": "edu.wpi.first.ntcore",
+          "module": "ntcore-java",
+          "version": {
+            "requires": "2024.3.2"
+          }
+        },
+        {
+          "group": "edu.wpi.first.wpiunits",
+          "module": "wpiunits-java",
+          "version": {
+            "requires": "2024.3.2"
+          }
+        },
+        {
+          "group": "edu.wpi.first.wpilibNewCommands",
+          "module": "wpilibNewCommands-java",
+          "version": {
+            "requires": "2024.3.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "overftclib-java-0.1.5.jar",
+          "url": "overftclib-java-0.1.5.jar",
+          "size": 2836,
+          "sha512": "a52108d31091df1e3df86646e40b9753bb9420e7529fff59e74307c558e2fa87df86c76fcebefa395eb658aa4a6d063e85baed75a19eb762fa9e064d3c35e61f",
+          "sha256": "42caebc29b281e6a43388fd6aa48771892f5fc0e8c67570450796acd26b83217",
+          "sha1": "2403ac47ebb9ec747b649e2edd013241b51d7567",
+          "md5": "d5419f9d8d0df06925b3cb74a7e7b063"
+        }
+      ]
+    }
+  ]
+}
