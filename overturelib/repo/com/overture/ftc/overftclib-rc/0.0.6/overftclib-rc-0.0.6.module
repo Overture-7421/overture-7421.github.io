@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.overture.ftc",
+    "module": "overftclib-rc",
+    "version": "0.0.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.overture.ftc",
+          "module": "overftclib",
+          "version": {
+            "requires": "0.0.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "overftclib-rc-0.0.6.aar",
+          "url": "overftclib-rc-0.0.6.aar",
+          "size": 2479,
+          "sha512": "42acc9425c44fe8ab3c39c6ce53a962c12fc7df456bd8ce02f9aa04598f92317c14e28efdc5a7b9cb23b0ed90d6c6b18797016759f0ce5582dd047c522a4d971",
+          "sha256": "82a1d8349e1d78b16b62e766f2a5d4ba6ac015b25223259dccb52ffcdcc06fd6",
+          "sha1": "bf4bb31611b1bb85cc6baf1cd83697619b28a014",
+          "md5": "6b9f9d7629464632ef8c960cfc1c137e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.ejml",
+          "module": "ejml-simple",
+          "version": {
+            "requires": "0.43.1"
+          },
+          "excludes": [
+            {
+              "group": "org.ejml",
+              "module": "ejml-all"
+            }
+          ]
+        },
+        {
+          "group": "com.overture.ftc",
+          "module": "overftclib",
+          "version": {
+            "requires": "0.0.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "overftclib-rc-0.0.6.aar",
+          "url": "overftclib-rc-0.0.6.aar",
+          "size": 2479,
+          "sha512": "42acc9425c44fe8ab3c39c6ce53a962c12fc7df456bd8ce02f9aa04598f92317c14e28efdc5a7b9cb23b0ed90d6c6b18797016759f0ce5582dd047c522a4d971",
+          "sha256": "82a1d8349e1d78b16b62e766f2a5d4ba6ac015b25223259dccb52ffcdcc06fd6",
+          "sha1": "bf4bb31611b1bb85cc6baf1cd83697619b28a014",
+          "md5": "6b9f9d7629464632ef8c960cfc1c137e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "overftclib-rc-0.0.6-sources.jar",
+          "url": "overftclib-rc-0.0.6-sources.jar",
+          "size": 1285,
+          "sha512": "674cb77f0ba10c04ddac1a4a22e07088fd4cac889a43fe740f9aa018f41127fe057ca37d2210274cd6a794f60f05646766e7509608acb6c155b8cec2ac5d2db1",
+          "sha256": "65b9115344ea1b98c9d03fcad816da81392cff1d2581bc6027bacf454c26c6fb",
+          "sha1": "77a4654e053d55ed44c5c4b4f4cec53001248521",
+          "md5": "90c393c33104128663e9c61f36a5c391"
+        }
+      ]
+    }
+  ]
+}
