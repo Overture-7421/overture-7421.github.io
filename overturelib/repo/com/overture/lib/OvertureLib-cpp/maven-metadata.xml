@@ -3,11 +3,11 @@
   <groupId>com.overture.lib</groupId>
   <artifactId>OvertureLib-cpp</artifactId>
   <versioning>
-    <latest>2025.0.0-beta-1</latest>
-    <release>2025.0.0-beta-1</release>
+    <latest>2025.0.0-beta-2</latest>
+    <release>2025.0.0-beta-2</release>
     <versions>
-      <version>2025.0.0-beta-1</version>
+      <version>2025.0.0-beta-2</version>
     </versions>
-    <lastUpdated>20241114230220</lastUpdated>
+    <lastUpdated>20241122051330</lastUpdated>
   </versioning>
 </metadata>
